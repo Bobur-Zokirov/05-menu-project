@@ -1,5 +1,3 @@
-import React from "react";
-
 const Categories = ({ categories, setCategory }) => {
   return (
     <div className="btn-container">
